@@ -1,5 +1,6 @@
 ﻿using System;
 using UnityEngine;
+using ClickThroughFix;
 
 namespace RealTimeClock2
 {
@@ -151,7 +152,7 @@ namespace RealTimeClock2
 			}
 
 			if (! hideGUI && draw) {
-				windowPos = GUI.Window (641286, windowPos, DrawTime, "");
+				windowPos = ClickThruBlocker.GUIWindow (641286, windowPos, DrawTime, "");
 			}
 		}
 

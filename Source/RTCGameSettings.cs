@@ -56,7 +56,7 @@ namespace RealTimeClock2
 		[GameParameters.CustomParameterUI ("Enable in Flight")]
 		public bool enableFlight = true;
 
-		[GameParameters.CustomStringParameterUI ("\n\nFor the Mission Buileder use the setting file at GameData/RealTimeClock2/PluginData/Settings.cfg", autoPersistance = false, lines = 6)]
+		[GameParameters.CustomStringParameterUI ("\n\nFor the Mission Builder use the setting file at GameData/RealTimeClock2/PluginData/Settings.cfg", autoPersistance = false, lines = 6)]
 		public string dummy = "Enable by default";
 
 		public override bool Enabled (System.Reflection.MemberInfo member, GameParameters parameters)

@@ -21,3 +21,11 @@ D:\GitHub\Real-Time-Clock-2\Source\obj\Debug\RealTimeClock2.dll
 D:\GitHub\Real-Time-Clock-2\Source\obj\Debug\RealTimeClock2.pdb
 D:\GitHub\Real-Time-Clock-2\Source\obj\Debug\RealTimeClock2.csprojAssemblyReference.cache
 D:\GitHub\Real-Time-Clock-2\Source\obj\Debug\RealTimeClock2.csproj.CoreCompileInputs.cache
+D:\Users\jbb\github\Real-Time-Clock-2\Source\obj\Debug\RealTimeClock2.csprojResolveAssemblyReference.cache
+D:\Users\jbb\github\Real-Time-Clock-2\Source\obj\Debug\RealTimeClock2.csproj.CoreCompileInputs.cache
+D:\Users\jbb\github\Real-Time-Clock-2\Source\obj\Debug\RealTimeClock2.dll
+D:\Users\jbb\github\Real-Time-Clock-2\Source\bin\Debug\RealTimeClock2.dll
+D:\Users\jbb\github\Real-Time-Clock-2\Source\bin\Debug\RealTimeClock2.pdb
+D:\Users\jbb\github\Real-Time-Clock-2\Source\bin\Debug\ClickThroughBlocker.dll
+D:\Users\jbb\github\Real-Time-Clock-2\Source\obj\Debug\RealTimeClock2.csproj.CopyComplete
+D:\Users\jbb\github\Real-Time-Clock-2\Source\obj\Debug\RealTimeClock2.pdb

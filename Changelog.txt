@@ -1,0 +1,51 @@
+1.11.1
+	Adoption by Linuxgurugamer
+	Added assemblyVersion
+	Added InstallChecker
+	Added ClickThroughFix
+
+1.11.0
+	recompile for KSP 1.6.1
+
+1.10.0
+	recompile for KSP 1.5.1
+
+1.9.0
+	recompile for KSP 1.4.3
+
+1.8.0
+	recompile for KSP 1.4.2
+	enable/disable per scene 's settings no longer need a scene change to take effect
+
+1.7.0
+	clock available in the Mission Builder
+	use 24/12h format and enable per scene settings now available in the game's settings menu
+	except for the Mission Builder, this one still in GameData/RealTimeClock2/PluginData/Settings.cfg
+	always use bold font
+	remove ability to right click on the clock to switch between 24/12h format, use the setting menu instead
+	recompile for KSP 1.4.1
+
+1.6.0
+	recompile for KSP 1.4
+
+1.5.0
+	Recompile for KSP 1.3.1
+
+1.4.0
+	Recompile for KSP 1.3.0
+	Fix incompatibility with Advanced Fly By Wire (most likely)
+
+1.3.0
+	Settings for hiding the clock per scene are now doing what they should
+
+1.2.0
+	Remove source files from the download
+	Hiding the UI now hide the clock
+	Code clean up
+
+1.1.0
+	Add .version file for KSP-AVC
+	hopefully, CKAN compatibility
+
+1.0.0
+	Initial release for KSP 1.2.1/2
