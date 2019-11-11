@@ -1,18 +1,16 @@
 {
-    "NAME":"Real Time Clock 2",
-    "URL":"http://ksp.spacetux.net/avc/RealTimeClock2",
-    "DOWNLOAD":"https://github.com/linuxgurugamer/Real-Time-Clock-2/releases",
-    "VERSION":
-    {
-        "MAJOR":1,
-        "MINOR":11,
-        "PATCH":1,
-        "BUILD":2
-    },
-    "KSP_VERSION_MIN":
-    {
-        "MAJOR":1,
-        "MINOR":7,
-        "PATCH":3
-    }
+  "NAME": "Real Time Clock 2",
+  "URL": "http://ksp.spacetux.net/avc/RealTimeClock2",
+  "DOWNLOAD": "https://github.com/linuxgurugamer/Real-Time-Clock-2/releases",
+  "VERSION": {
+    "MAJOR": 1,
+    "MINOR": 11,
+    "PATCH": 2,
+    "BUILD": 0
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 8,
+    "PATCH": 0
+  }
 }
