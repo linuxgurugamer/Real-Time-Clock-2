@@ -53,10 +53,6 @@
     <Reference Include="ClickThroughBlocker">
       <HintPath>$(KSPDIR)\GameData\000_ClickThroughBlocker\Plugins\ClickThroughBlocker.dll</HintPath>
     </Reference>
-    <Reference Include="System">
-      <HintPath>..\KSPandMH\KSP_x64_Data\Managed\System.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Content Include="AssemblyVersion.tt">
